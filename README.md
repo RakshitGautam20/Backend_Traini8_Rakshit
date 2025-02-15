@@ -72,7 +72,7 @@ This project is an API for managing government-funded training centers. It provi
 - Navigate to the project directory
 
 ```
-  cd TrainingCentersBackend
+  cd Backend_Traini8_Rakshit
 ```
 - Built and run the application
 
