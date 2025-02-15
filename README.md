@@ -1,5 +1,5 @@
 
-# Training Centera API
+# Training Center API
 
 This project is an API for managing government-funded training centers. It provides endpoints for creating and retrieving training centers with proper validations and data persistence using Spring Boot and MongoDB.
 
