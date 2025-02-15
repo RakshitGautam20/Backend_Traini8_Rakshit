@@ -56,7 +56,7 @@ This project is an API for managing government-funded training centers. It provi
 
 #### Retrieve All Training Centers (GET)
 
-```http
+```
   GET /findAll
 ```
 
